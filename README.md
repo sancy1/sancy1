@@ -1,14 +1,6 @@
 # 💫 About Me:
-I’m a results-driven Software Engineer specializing in full-stack development and backend systems, with hands-on experience building scalable web, desktop, and API-driven applications. My projects span developer tools, e-commerce platforms, AI-powered utilities, and productivity applications, each designed with a focus on efficiency, maintainability, and user experience.
-
-I work fluently with Python, Django, Node.js, Next.js, Typescripts React, and C#, and have expertise in PostgreSQL, MySQL, MongoDB, and RESTful API development. My workflow integrates Docker for containerization, GitHub Actions for CI/CD pipelines, and Squash for User Acceptance Testing ensuring rapid, reliable, and repeatable deployments.
-
-Some of my notable projects include:
-•	AI Builder: Accelerates app creation through smart code generation and automated documentation.
-•	Universal Time: A global clock platform with a developer API for in-app timezone integration.
-•	Advanced AI Web Scraper Pro: AI-powered content extraction with customizable scraping rules.
-•	Artisans Handcraft: A feature-rich e-commerce platform for handmade goods.
-I’m passionate about automation, intelligent tooling, and clean architecture, and I thrive on turning complex requirements into elegant, high-performance solutions. Whether working solo or collaborating remotely, I bring a commitment to quality, scalability, and innovation in every project.
+Software Development Student at BYU-Pathway | Full-Stack Developer
+Passionate about building scalable web and API-driven applications. Experienced with Python, Django, FastAPI, Node.js, Next.js, TypeScript, React, C#, and databases like PostgreSQL, MySQL, and MongoDB. I enjoy creating efficient, maintainable solutions and exploring AI-powered tools and automation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-cyril-59565b1a0) 
