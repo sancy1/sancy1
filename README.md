@@ -3,9 +3,17 @@
 🎓 Software Development Student at **BYU-Idaho / BYU-Pathway**  
 💻 Full-Stack Developer | API Engineer | Mobile App Enthusiast  
 
-Passionate about building **scalable web apps, APIs, and cross-platform solutions**.  
+I’m a Software Development student at **BYU-Idaho** I'm Passionate about building **scalable applications, APIs, and modern web/mobile solutions.**  
 I enjoy solving problems, designing efficient architectures, and exploring **AI-powered tools** & automation.  
 
+🌱 Currently, I’m focusing on:
+- Backend development with **ASP.NET Core (Web API), FastAPI, Django, and Spring Boot**  
+- Frontend using **Next.js, React Native**  
+- Improving problem-solving with **C++, C#, Kotlin, Python, and TypeScript**  
+
+I enjoy solving problems, designing efficient architectures, and exploring **AI-powered tools** & automation.
+💡 My long-term goal is to become a software engineer specializing in **cloud-based systems and AI-powered applications**.
+ 
 ---
 
 ## 🌐 Socials:
