@@ -82,8 +82,5 @@ I enjoy solving problems, designing efficient architectures, and exploring **AI-
 ---
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src="https://api.memegen.link/images/fry/shut_up_and_take_my_code.png" width="400"/>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=sancy1&icon=0&color=0)](https://visitcount.itsvg.in)
