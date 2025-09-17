@@ -7,7 +7,7 @@ I’m a Software Development student at **BYU-Idaho** I'm Passionate about build
 I enjoy solving problems, designing efficient architectures, and exploring **AI-powered tools** & automation.  
 
 🌱 Currently, I’m focusing on:
-- Backend development with **ASP.NET Core (Web API), FastAPI, Django, and Spring Boot**  
+- Backend development with **ASP.NET Core (Web API), FastAPI, Django, Node/Express, and Spring Boot**  
 - Frontend using **Next.js, React Native**  
 - Improving problem-solving with **C++, C#, Kotlin, Python, and TypeScript**  
 
@@ -36,6 +36,8 @@ I enjoy solving problems, designing efficient architectures, and exploring **AI-
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ### 📱 Frontend & Mobile
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
