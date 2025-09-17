@@ -82,5 +82,6 @@ I enjoy solving problems, designing efficient architectures, and exploring **AI-
 ---
 
 ### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/fry/shut_up_and_take_my_code.png" width="400"/>
+<img src="https://api.memegen.link/images/random.png" width="400"/>
+
 
