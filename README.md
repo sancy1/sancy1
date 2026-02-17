@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m **Alexander Cyril**  
-🎓 Software Development Student at **BYU-Idaho**  
+🎓 Software Engineer  
 💻 Full-Stack Developer | API Engineer | Mobile App Enthusiast  
 
 I’m a Software Development student at **BYU-Idaho** I'm Passionate about building **scalable applications, APIs, and modern web/mobile solutions.**  
