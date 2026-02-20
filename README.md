@@ -7,21 +7,21 @@ I’m a Software Engineer focused on building reliable backend systems, full-sta
 
 I have built and deployed multiple real-world applications, including public **REST APIs, full-stack SaaS platforms, desktop engineering tools, and personal finance and e-learning systems.** My work emphasizes structured backend design, efficient data handling, and production-ready deployment using PostgreSQL and Docker. 
 
-💡 **My core focus areas include:**
+💡 **My core focus areas include:**\
    • Backend API development with Node.js, TypeScript, ASP.NET Core, and Python  
    • Full-stack application development using Next.js, Blazor, and PostgreSQL  
    • Designing structured database systems and scalable backend logic  
    • Building developer tools and desktop applications with Python  
    • Containerization and deployment using Docker   
 
-🚀 **Notable projects I’ve built include:**
+🚀 **Notable projects I’ve built include:**\
    • Universal Time API — a deployed global time service API built with Node.js, TypeScript, PostgreSQL, and Docker  
    • AxioQuan — a full-stack e-learning platform built with Next.js, TypeScript, Tailwind CSS, and PostgreSQL  
    • BudgetBuddy — a personal finance tracker built with ASP.NET Blazor and PostgreSQL  
    • Code Analyzer Studio — a desktop developer tool for visualizing project structure and source code  
    • AI Web Scraper Pro — a desktop automation tool for structured data extraction using Python  
 
-🌱 **I’m continuously improving my skills in:**
+🌱 **I’m continuously improving my skills in:**\
    • Backend architecture and distributed systems  
    • Cloud deployment and containerized applications  
    • Data engineering and system design  
