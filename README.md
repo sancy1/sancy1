@@ -1,103 +1,120 @@
-# 💫 About Me:
-👋 Hi, I’m **Alexander Sanchez Cyril**  
-🎓 Software Engineer  
-💻 Backend & Full-Stack Developer | API Engineer | Developer Tools Builder 
+# 💫 About Me
 
-I’m a Software Engineer focused on building reliable backend systems, full-stack applications, and developer tools using **Node.js, TypeScript, Python, and C#.** I design and develop software from concept to deployment, with strong attention to clean architecture, performance, and maintainability.
+👋 Hi, I'm **Alexander Sanchez Cyril**
 
-I have built and deployed multiple real-world applications, including public **REST APIs, full-stack SaaS platforms, desktop engineering tools, and personal finance and e-learning systems.** My work emphasizes structured backend design, efficient data handling, and production-ready deployment using PostgreSQL and Docker. 
+🎓 Software Engineer | Full-Stack Developer | Backend Engineer | AI Engineer
 
-💡 **My core focus areas include:**\
-   • Backend API development with Node.js, TypeScript, ASP.NET Core, and Python  
-   • Full-stack application development using Next.js, Blazor, and PostgreSQL  
-   • Designing structured database systems and scalable backend logic  
-   • Building developer tools and desktop applications with Python  
-   • Containerization and deployment using Docker   
+I design, build, and deploy production-ready software systems across full-stack applications, backend services, APIs, and AI-powered systems. I focus on creating scalable, maintainable, and well-architected software from concept to deployment.
 
-🚀 **Notable projects I’ve built include:**\
-   • Universal Time API — a deployed global time service API built with Node.js, TypeScript, PostgreSQL, and Docker  
-   • AxioQuan — a full-stack e-learning platform built with Next.js, TypeScript, Tailwind CSS, and PostgreSQL  
-   • BudgetBuddy — a personal finance tracker built with ASP.NET Blazor and PostgreSQL  
-   • Code Analyzer Studio — a desktop developer tool for visualizing project structure and source code  
-   • AI Web Scraper Pro — a desktop automation tool for structured data extraction using Python  
+My work sits at the intersection of **backend engineering, distributed systems, cloud infrastructure, and agentic AI development**. I enjoy solving real-world problems by building reliable systems that are designed for production use.
 
-🌱 **I’m continuously improving my skills in:**\
-   • Backend architecture and distributed systems  
-   • Cloud deployment and containerized applications  
-   • Data engineering and system design  
-   • AI-assisted software and automation tools  
-
-I enjoy turning ideas into real, working software and continuously improving my engineering skills through hands-on development.
- 
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-cyril-59565b1a0)
+I have independently developed and deployed multiple software applications, gaining hands-on experience across the full software development lifecycle including system design, development, deployment, and maintenance.
 
 ---
 
-# 💻 Tech Stack:
+## 🎯 Engineering Focus
 
-### 🌍 Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![C++](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### ⚙️ Backend & APIs
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
-![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-
-### 📱 Frontend & Mobile
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-### 🛢️ Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+Full-Stack Development • Backend Engineering • API Design • Agentic AI Systems • Distributed Systems • Cloud Infrastructure
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sancy1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sancy1&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sancy1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 Core Competencies
+
+* Backend API Development
+* Full-Stack Application Development
+* System Design & Clean Architecture
+* Database Design & Data Modeling
+* Cloud Deployment & DevOps Practices
+* AI Workflow Engineering
+* Developer Tools Development
+* Distributed Systems Design
+
+---
+
+## 🤖 AI & Agentic Systems
+
+I build intelligent systems using modern AI frameworks and architectures:
+
+* LangGraph
+* LangChain
+* LangSmith
+* LlamaIndex
+* Retrieval-Augmented Generation (RAG)
+* Model Context Protocol (MCP)
+* Tool Calling & Agent Orchestration
+* Vector Search & Retrieval
+* AI Automation Workflows
+
+---
+
+## ⚙️ What I'm Working On
+
+* Scalable backend systems and APIs
+* Agentic AI applications and workflows
+* Distributed systems using event-driven architecture
+* Cloud-native applications and deployments
+* Developer productivity tools
+
+---
+
+## 🌱 Currently Expanding Expertise In
+
+* Advanced distributed systems design
+* Cloud infrastructure and DevOps automation
+* Infrastructure as Code (Terraform)
+* AI system architecture
+* Scalable backend engineering patterns
+
+---
+
+## 🌐 Socials
+
+[LinkedIn](https://linkedin.com/in/alexander-cyril-59565b1a0)
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+Python • TypeScript • JavaScript • C# • SQL
+
+### Backend & APIs
+
+FastAPI • Node.js • Fastify • ASP.NET Core • Django • REST APIs
+
+### Frontend
+
+React • Next.js • Tailwind CSS • Bootstrap
+
+### AI & Agentic Systems
+
+LangGraph • LangChain • LangSmith • LlamaIndex • RAG • MCP
+
+### Databases
+
+PostgreSQL • Redis • MongoDB • MySQL • Vector Databases
+
+### Distributed Systems
+
+Apache Kafka • Event Streaming • Pub/Sub Architecture
+
+### Cloud & DevOps
+
+Docker • Docker Compose • CI/CD (GitHub Actions) • AWS • Render • Vercel • Terraform
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sancy1\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sancy1\&theme=radical\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sancy1\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sancy1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sancy1&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-
-### 😂 Random Dev Meme
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
-
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=sancy1\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
