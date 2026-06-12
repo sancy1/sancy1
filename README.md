@@ -117,4 +117,4 @@ Docker • Docker Compose • CI/CD (GitHub Actions) • AWS • Render • Verc
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sancy1\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sancy1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
