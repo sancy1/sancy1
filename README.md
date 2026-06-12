@@ -77,11 +77,11 @@ I build intelligent systems using modern AI frameworks and architectures:
 
 ### Languages
 
-Python • TypeScript • JavaScript • C# • SQL
+Python • TypeScript • JavaScript • Java • C# • GO • SQL
 
 ### Backend & APIs
 
-FastAPI • Node.js • Fastify • ASP.NET Core • Django • REST APIs
+FastAPI • Node.js • Fastify • ASP.NET Core • GIN • Spring Boot • Django • REST APIs
 
 ### Frontend
 
