@@ -2,13 +2,15 @@
 
 👋 Hi, I'm **Alexander Sanchez Cyril**
 
-🎓 Software Engineer | Full-Stack Developer | Backend Engineer | AI Engineer
+🎓 Software Engineer | Full-Stack Developer | Backend Engineer | AI & Agentic Systems Engineer
 
-I design, build, and deploy production-ready software systems across full-stack applications, backend services, APIs, and AI-powered systems. I focus on creating scalable, maintainable, and well-architected software from concept to deployment.
+design, build, and deploy full-stack applications, backend services, APIs, and AI-powered systems with a focus on scalability, reliability, and clean architecture.
 
-My work sits at the intersection of **backend engineering, distributed systems, cloud infrastructure, and agentic AI development**. I enjoy solving real-world problems by building reliable systems that are designed for production use.
+My work spans backend engineering, distributed systems, cloud infrastructure, and agentic AI development. I enjoy building systems that solve real-world problems and are designed for production use rather than prototypes.
 
-I have independently developed and deployed multiple software applications, gaining hands-on experience across the full software development lifecycle including system design, development, deployment, and maintenance.
+I have independently developed and deployed multiple software systems across different domains, gaining hands-on experience across the full software development lifecycle — including system design, implementation, deployment, and maintenance.
+
+My interests include backend architecture, distributed systems, API design, and AI-driven software systems.
 
 ---
 
