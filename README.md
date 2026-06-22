@@ -22,14 +22,14 @@ Full-Stack Development • Backend Engineering • API Design • Agentic AI Sys
 
 ## 🚀 Core Competencies
 
-* Backend API Development
-* Full-Stack Application Development
-* System Design & Clean Architecture
+* Backend Systems & API Design
+* Full-Stack Software Engineering
+* System Design & Scalable Architecture
 * Database Design & Data Modeling
-* Cloud Deployment & DevOps Practices
-* AI Workflow Engineering
-* Developer Tools Development
-* Distributed Systems Design
+* Cloud-Native Development & DevOps Practices
+* AI Systems & Agentic Workflow Engineering
+* Distributed Systems Design & Messaging Architectures
+* Developer Tools & Automation Systems
 
 ---
 
