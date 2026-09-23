@@ -4,13 +4,27 @@
 
 🎓 Software Engineer | Full-Stack Developer | Backend Engineer | AI & Agentic Systems Engineer
 
-design, build, and deploy full-stack applications, backend services, APIs, and AI-powered systems with a focus on scalability, reliability, and clean architecture.
+Software Engineer building full-stack, backend, and AI systems with a focus on cloud-native architecture.
 
-My work spans backend engineering, distributed systems, cloud infrastructure, and agentic AI development. I enjoy building systems that solve real-world problems and are designed for production use rather than prototypes.
+I design and build end-to-end software systems—from architecture and backend development to deployment, automation, and maintenance. My focus is on creating scalable, practical, and dependable applications that solve real-world problems.
 
-I have independently developed and deployed multiple software systems across different domains, gaining hands-on experience across the full software development lifecycle — including system design, implementation, deployment, and maintenance.
+I have independently built and deployed multiple systems, including full-stack platforms, backend APIs, AI-powered applications, developer tools, and infrastructure monitoring services. These projects have given me hands-on experience in system design, distributed architectures, authentication systems, and modern cloud deployment practices.
 
-My interests include backend architecture, distributed systems, API design, and AI-driven software systems.
+I am the author and maintainer of Portfolio.Resilience, an open-source .NET 10 resilience library published on NuGet and used in production. The library provides outbound-call protection for microservices and payment systems (retry, circuit breaker, timeout, rate limiting, bulkhead, hedging, structured logging, latency metrics, correlation IDs) with zero third-party runtime dependencies. It includes capabilities not offered as first-class APIs by Polly, such as idempotency key propagation, PCI-safe event scrubbing, total time budgets, and a Payment Processing Preset for non-idempotent writes. The project has 548 automated tests and is running in production in File-Ferry v1.0.0.
+
+Currently, I contribute as an Open Source Engineering Fellow at ArcellAI (San Francisco, CA), working on AI systems that trace and verify vendor economic relationships. My work focuses on entity resolution, multi-source evidence retrieval, normalization, conflict detection, and human-review workflows centered on a relationship/evidence context graph.
+
+My core interests include building intelligent and scalable software systems that combine backend engineering, distributed systems, and AI-driven workflows.
+
+Technical Focus Areas:
+Full-Stack Development | Backend Engineering | AI & Agentic Systems | APIs | Distributed Systems | Cloud-Native Applications | CI/CD Automation | Database Design | System Architecture | Open-Source Library Development
+
+Technologies I Work With:
+Python, TypeScript, JavaScript, Java, C#, Go, FastAPI, Django, Node.js, ASP.NET Core, Spring Boot, Gin, React, Next.js, PostgreSQL, Redis, Kafka, RabbitMQ, Docker, GitHub Actions, Terraform, Vercel, Render, LangGraph, LangChain, LlamaIndex, RAG, MCP, .NET, NuGet..
+
+- **NuGet:** [https://www.nuget.org/packages/Portfolio.Resilience](https://www.nuget.org/packages/Portfolio.Resilience)
+- **GitHub:** [https://github.com/sancy1/portfolio-resilience](https://github.com/sancy1/portfolio-resilience)
+- **CI:** [https://github.com/sancy1/portfolio-resilience/actions](https://github.com/sancy1/portfolio-resilience/actions)
 
 ---
 
