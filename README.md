@@ -10,7 +10,11 @@ I design and build end-to-end software systems—from architecture and backend d
 
 I have independently built and deployed multiple systems, including full-stack platforms, backend APIs, AI-powered applications, developer tools, and infrastructure monitoring services. These projects have given me hands-on experience in system design, distributed architectures, authentication systems, and modern cloud deployment practices.
 
-I am the author and maintainer of Portfolio.Resilience, an open-source .NET 10 resilience library published on NuGet and used in production. The library provides outbound-call protection for microservices and payment systems (retry, circuit breaker, timeout, rate limiting, bulkhead, hedging, structured logging, latency metrics, correlation IDs) with zero third-party runtime dependencies. It includes capabilities not offered as first-class APIs by Polly, such as idempotency key propagation, PCI-safe event scrubbing, total time budgets, and a Payment Processing Preset for non-idempotent writes. The project has 548 automated tests and is running in production in File-Ferry v1.0.0.
+I am the author and maintainer of **Portfolio.Resilience** and **ApiPilot**, open-source .NET 10 libraries published on NuGet and currently used in the development of the Developers Community Platform. Portfolio.Resilience is also used in production in File-Ferry.
+
+- **Portfolio.Resilience** — A .NET 10 resilience library for outbound-call protection in microservices and payment systems. It provides retry, circuit breaker, timeout, rate limiting, bulkhead, hedging, structured logging, latency metrics, and correlation IDs, with zero third-party runtime dependencies. It also includes capabilities not offered as first-class APIs by Polly, such as idempotency-key propagation, PCI-safe event scrubbing, total time budgets, and a Payment Processing Preset for non-idempotent writes. The project has 548 automated tests and is used in production in File-Ferry.
+
+- **ApiPilot** — A contract-first API-boundary library for ASP.NET Core. It standardizes JSON response and error envelopes, validation, pagination, correlation IDs, CSRF issuance and validation, secure cookie profiles, Origin and Fetch Metadata policies, a repository-owned OpenAPI emitter, rate-limit integration, diagnostics, and a zero-runtime-dependency browser client. Its cross-language wire specification helps teams build consistent, secure APIs and reusable client integrations.
 
 Currently, I contribute as an Open Source Engineering Fellow at ArcellAI (San Francisco, CA), working on AI systems that trace and verify vendor economic relationships. My work focuses on entity resolution, multi-source evidence retrieval, normalization, conflict detection, and human-review workflows centered on a relationship/evidence context graph.
 
@@ -22,9 +26,14 @@ Full-Stack Development | Backend Engineering | AI & Agentic Systems | APIs | Dis
 Technologies I Work With:
 Python, TypeScript, JavaScript, Java, C#, Go, FastAPI, Django, Node.js, ASP.NET Core, Spring Boot, Gin, React, Next.js, PostgreSQL, Redis, Kafka, RabbitMQ, Docker, GitHub Actions, Terraform, Vercel, Render, LangGraph, LangChain, LlamaIndex, RAG, MCP, .NET, NuGet..
 
+- **Portfolio.Resilience**
 - **NuGet:** [https://www.nuget.org/packages/Portfolio.Resilience](https://www.nuget.org/packages/Portfolio.Resilience)
 - **GitHub:** [https://github.com/sancy1/portfolio-resilience](https://github.com/sancy1/portfolio-resilience)
 - **CI:** [https://github.com/sancy1/portfolio-resilience/actions](https://github.com/sancy1/portfolio-resilience/actions)
+
+- **ApiPilot**
+- **NuGet (ApiPilot.Core):** [https://www.nuget.org/packages/ApiPilot.Core](https://www.nuget.org/packages/ApiPilot.Core)
+- **GitHub:** [https://github.com/sancy1/ApiPilot](https://github.com/sancy1/ApiPilot)
 
 ---
 
