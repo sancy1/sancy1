@@ -10,7 +10,7 @@ I design and build end-to-end software systems—from architecture and backend d
 
 I have independently built and deployed multiple systems, including full-stack platforms, backend APIs, AI-powered applications, developer tools, and infrastructure monitoring services. These projects have given me hands-on experience in system design, distributed architectures, authentication systems, and modern cloud deployment practices.
 
-I am the author and maintainer of **Portfolio.Resilience** and **ApiPilot**, open-source .NET 10 libraries published on NuGet and currently used in the development of the Developers Community Platform. Portfolio.Resilience is also used in production in File-Ferry.
+I am the author and maintainer of **Portfolio.Resilience** and **ApiPilot**, open-source .NET 10 libraries published on NuGet and currently used in the development of Developers Community Platform. Portfolio.Resilience is also used in production in File-Ferry.
 
 - **Portfolio.Resilience** — A .NET 10 resilience library for outbound-call protection in microservices and payment systems. It provides retry, circuit breaker, timeout, rate limiting, bulkhead, hedging, structured logging, latency metrics, and correlation IDs, with zero third-party runtime dependencies. It also includes capabilities not offered as first-class APIs by Polly, such as idempotency-key propagation, PCI-safe event scrubbing, total time budgets, and a Payment Processing Preset for non-idempotent writes. The project has 548 automated tests and is used in production in File-Ferry.
 
