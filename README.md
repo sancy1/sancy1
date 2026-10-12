@@ -34,6 +34,7 @@ Python, TypeScript, JavaScript, Java, C#, Go, FastAPI, Django, Node.js, ASP.NET 
 - **ApiPilot**
 - **NuGet (ApiPilot.Core):** [https://www.nuget.org/packages/ApiPilot.Core](https://www.nuget.org/packages/ApiPilot.Core)
 - **GitHub:** [https://github.com/sancy1/ApiPilot](https://github.com/sancy1/ApiPilot)
+- **CI:** [https://github.com/sancy1/ApiPilot/actions](https://github.com/sancy1/ApiPilot/actions)
 
 ---
 
